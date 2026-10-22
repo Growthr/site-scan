@@ -1,0 +1,14 @@
+{
+  "name": "site-scan",
+  "displayName": "Site Scan",
+  "version": "1.0.0",
+  "description": "Scan a site the way Googlebot and AI crawlers see it: 22 weighted checks for SEO and AI readability, scored 0-100, with the fixes ordered.",
+  "author": {
+    "name": "Growthr",
+    "url": "https://growthr.com"
+  },
+  "homepage": "https://growthr.com/scan/",
+  "repository": "https://github.com/Growthr/site-scan",
+  "license": "MIT",
+  "keywords": ["seo", "geo", "aeo", "ai-search", "audit", "crawlability", "llms.txt"]
+}
